@@ -82,7 +82,7 @@ class _MainScreenState extends State<MainScreen> {
                Flexible(fit: FlexFit.loose,
                child: FlatButton(
                  onPressed: _letterCalculation,
-                child: Text("Calculate",
+                child: Text("Calculate x",
                 style: TextStyle(fontSize: 20),),
                  color: Colors.indigo,
                  textColor: Colors.white60,
